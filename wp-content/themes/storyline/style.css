@@ -245,7 +245,10 @@ header .headerSection div .numberSection{
 	color:black;
 }
 
+.branding-section, .branding-section1{
+	border-top: 1px solid rgba(0, 0, 0, 0.21);
 
+}
 
 .menu-branding h2{
 	font-size: 16px;
@@ -316,6 +319,10 @@ header .headerSection div .numberSection{
 	color: black;
 }
 
+.marketing-section, .marketing-section1{
+	border-top: 1px solid rgba(0, 0, 0, 0.21);
+
+}
 
 .menu-marketing h2{
 	font-size: 16px;
@@ -384,7 +391,10 @@ header .headerSection div .numberSection{
 	color: black;
 }
 
+.produccion-section, .produccion-section1{
+	border-top: 1px solid rgba(0, 0, 0, 0.21);
 
+}
 .menu-produccion h2{
 	font-size: 16px;
 	margin-top: -6px;
